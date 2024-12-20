@@ -161,7 +161,7 @@
 	)
 	(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_dennisleexyz_libmodulo/PG1316S.STEP"
 		(offset
-			(xyz -4.75 -6.25 -10.25)
+			(xyz -4.756230352 -6.266884 -10.240384)
 		)
 		(scale
 			(xyz 1 1 1)
